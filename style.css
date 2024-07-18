@@ -101,7 +101,7 @@ h3 {
   align-items: center;
   text-align: center;
 }
-.hero .sub-text{
+.hero .sub-text{ 
   width: 21ch;
   animation: flashing-border 0.75s step-end infinite,
   printed-text 5s steps(21); 
